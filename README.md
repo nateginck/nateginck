@@ -13,7 +13,7 @@ Here are some of my favorites:
 If you'd like to get in touch or collaborate on a project, you can reach me at:
 
 - **Email:** nateginck@gmail.com
-- **LinkedIn:** [Nathaniel Ginck](https://www.linkedin.com/in/nathanielginck/)
+- **LinkedIn:** [Nate Ginck](https://www.linkedin.com/in/nathanielginck/)
 
 Thank you for visiting my profile!
 
