@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to my Github Profile!
 
-<!--
-**nateginck/nateginck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Nate Ginck, a computer engineering student at Pitt with a passion for Artificial Intelligence. On this page, you can find some projects I have completed in machine learning, image processing, and statistical modeling. 
 
-Here are some ideas to get you started:
+Here are some of my favorites:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Predicting Song Popularity With Machine Learning](https://github.com/nateginck/Predicting-Song-Popularity-With-Machine-Learning)**: For this project, I performed mean normalization, feature selection, and cross-validation to determine an optimal model for determining song popularity. Spoiler Alert: the Bagged Tree Model performed the best.
+- **[Neural Network Implementation](https://github.com/nateginck/Neural-Network-Implementation)**: Here, I wrote code for a neural network involving backpropagation and an activation function. This is a great way to learn the basics of how neural networks work for beginners to machine learning!
+- **[PCA, SVM, and KNN Implementation](https://github.com/nateginck/PCA-SVM-and-KNN-Implementation)**: This project entails using Principal Component Analysis, Support Vector Machines, and K-Nearest-Neighbors algorithms. Basically, these are some fundamentals in the realm of machine learning. 
+
+## Contact Me
+
+If you'd like to get in touch or collaborate on a project, you can reach me at:
+
+- **Email:** nateginck@gmail.com
+- **LinkedIn:** [Nathaniel Ginck](https://www.linkedin.com/in/nathanielginck/)
+
+Thank you for visiting my profile!
+
